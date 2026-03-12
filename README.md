@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/329386/m/luminar-ai-screenshot.png?v=1669015568" alt="Luminar screenshot"/>
+  <img src="https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2022/02/hero.jpg" alt="Luminar screenshot"/>
 </p>
 
 ---
